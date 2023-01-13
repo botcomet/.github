@@ -6,4 +6,5 @@ BotComet is a protocol and hosting service for chat bots. We are currently in ve
 
 Our current repositories are listed below. More will be added soon.
 
-- [botcomet/discord-bot](https://github.com/botcomet/discord-bot)
+- [The BotComet protocol](https://github.com/botcomet/protocol)
+- [Our custom Discord bot](https://github.com/botcomet/discord-bot)
