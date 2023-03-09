@@ -6,4 +6,5 @@ BotComet is hosting service for chat bots. We are currently in very early develo
 
 Our current repositories are listed below. More will be added soon.
 
+- [The BotComet package monorepo](https://github.com/botcomet/botcomet)
 - [Our custom Discord bot](https://github.com/botcomet/discord-bot)
